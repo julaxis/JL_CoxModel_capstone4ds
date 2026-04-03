@@ -1,7 +1,7 @@
 ---
 title: "Writing a great story for data science projects - Spring 2026 "
 subtitle: "This is a Report Template Quarto"
-author: "Julaxis Love (Advisor: Dr. Cohen)"
+author: "Julaxis Love"
 date: '`r Sys.Date()`'
 format:
   html:
